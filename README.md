@@ -18,34 +18,63 @@ Tombol "Jelajahi Sekarang" pada halaman utama memudahkan pengunjung untuk langsu
 
 Struktur Folder Proyek
 keindahanIndonesia/
+
 ├── index.html
+
 ├── content.html
+
 ├── bali.html
+
 ├── yogyakarta.html
+
 ├── rajaampat.html
+
 ├── feedback.html
+
 ├── css/
+
 │   └── styles.css
+
 ├── js/
+
 │   └── script.js
+
 ├── images/
+
 │   ├── pemandanganIndomp4.mp4
+
 │   ├── bali.jpg
+
 │   ├── bali1.jpg
+
 │   ├── candi1.jpg
+
 │   ├── candi2.jpg
+
 │   ├── diving.jpeg
+
 │   ├── goajom.png
+
 │   ├── gunungslamet.jpg
+
 │   ├── kecak.jpg
+
 │   ├── parasut.jpeg
+
 │   ├── pemandanganbali.jpg
+
 │   ├── rajaampat.jpg
+
 │   ├── rajaampat2.jpg
+
 │   ├── rajaampat3.jpg
+
 │   ├── slide2.jpeg
+
 │   ├── sukubiak.web
+
 │   └── yogyakarta.jpg
+
 └── README.md
 
 Teknologi yang Digunakan
